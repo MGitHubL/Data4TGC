@@ -7,9 +7,13 @@ This is an early version of our dataset, and we will be updating it with more in
 ## Download datasets
 
 arXivAI:
+
 arXivCS:
+
 arXivMath:
+
 arXivPhy:
+
 arXivLarge:
 
 ## Dataset details
@@ -35,4 +39,8 @@ Data format:
 The first line introduces the number of nodes N and feature dimensions d
 thereafter for each line: node ID, d-dimensional vector
 ```
+
+## Baseline
+
+We implement the HTNE model for temporal graph clustering on our datasets.
 
