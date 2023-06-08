@@ -8,7 +8,7 @@ This is an early version of our dataset, and we will be updating it with more in
 
 Google Drive: https://drive.google.com/drive/folders/1-4O3V0ZcC_f8yP5ylW9CX-lE6qucbFfh?usp=sharing
 
-Baidu Disk: 
+Baidu Disk:
 
 ## Dataset details
 
