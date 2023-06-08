@@ -36,17 +36,21 @@ thereafter for each line: node ID, d-dimensional vector
 
 ## Baseline
 
-We implement the HTNE model for temporal graph clustering on our datasets.
+We implement the HTNE model for temporal graph clustering on our datasets. Please download the Baseline.zip and unzip it.
+
+In this way, under the Baseline folder, there are three subfolders: HTNE (model code), emb (node embeddings) and Clustering (test code).
+
+For the HTNE subfolder, you can:
 
 ```
 python main.py
 ```
 
-We have two types of clustering test:
+Note that we have two types of clustering test:
 
 (1) Evaluated during training: we perform an evaluation of the clustering effect after each epoch is completed, and this result will be given during the model training.
 
-(This way is not applicable to both arXivPhy and arXivLarge data sets because of the longer time required for clustering. You can freely change it in the code)
+(This way is not applicable to both arXivPhy and arXivLarge data sets because of the longer time required for clustering. You can freely change it in the code.)
 
 ```
 if self.the_data == 'arxivLarge' or self.the_data == 'arxivPhy':
@@ -56,6 +60,8 @@ else:
 ```
 
 (2) Evaluated after training, where we save node embeddings every 20 epochs, with a separate clustering code.
+
+(This way requires you to create the folder where the emb files are stored, which we have created in the Baseline.zip.)
 
 ```
 python clustering.py
