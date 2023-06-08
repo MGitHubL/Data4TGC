@@ -4,6 +4,8 @@ arXiv4TGC is a set of academic datasets (includes arXivAI, arXivCS, arXivMath, a
 
 This is an early version of our dataset, and we will be updating it with more information as we go along.
 
+If you have any questions, please contact me: mengliuedu@163.com
+
 ## Download datasets
 
 Google Drive: https://drive.google.com/drive/folders/1-4O3V0ZcC_f8yP5ylW9CX-lE6qucbFfh?usp=sharing
