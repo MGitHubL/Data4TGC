@@ -38,3 +38,26 @@ thereafter for each line: node ID, d-dimensional vector
 
 We implement the HTNE model for temporal graph clustering on our datasets.
 
+```
+python main.py
+```
+
+We have two types of clustering test:
+
+(1) Evaluated during training: we perform an evaluation of the clustering effect after each epoch is completed, and this result will be given during the model training.
+
+(This way is not applicable to both arXivPhy and arXivLarge data sets because of the longer time required for clustering. You can freely change it in the code)
+
+```
+if self.the_data == 'arxivLarge' or self.the_data == 'arxivPhy':
+  acc, nmi, ari, f1 = 0, 0, 0, 0
+else:
+  acc, nmi, ari, f1 = eva(self.clusters, self.labels, self.node_emb)
+```
+
+(2) Evaluated after training, where we save node embeddings every 20 epochs, with a separate clustering code.
+
+```
+python clustering.py
+```
+
