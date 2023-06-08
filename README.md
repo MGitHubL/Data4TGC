@@ -6,7 +6,7 @@ This is an early version of our dataset, and we will be updating it with more in
 
 ## Download datasets
 
-arXivAI:
+arXivAI: https://drive.google.com/drive/folders/1-5KaZVlTBq0oi53mChPzXxR41qz7lYRH?usp=sharing
 
 arXivCS:
 
