@@ -8,13 +8,13 @@ This is an early version of our dataset, and we will be updating it with more in
 
 arXivAI: https://drive.google.com/drive/folders/1-5KaZVlTBq0oi53mChPzXxR41qz7lYRH?usp=sharing
 
-arXivCS:
+arXivCS: https://drive.google.com/drive/folders/1-87cs_vfc9UB82zzaDlgGGMEyPtQmAP3?usp=sharing
 
-arXivMath:
+arXivMath: https://drive.google.com/drive/folders/1-bo-5moYpskDbum8dJnmn7TyZnrhn1Yi?usp=sharing
 
-arXivPhy:
+arXivPhy: https://drive.google.com/drive/folders/1-aPry0XUEMoFN46opJhseh_ALkaaEh3f?usp=sharing
 
-arXivLarge:
+arXivLarge: https://drive.google.com/drive/folders/1-GxgRCnCr0WEShc_iFT7O4gtPZUnIBrJ?usp=sharing
 
 ## Dataset details
 
