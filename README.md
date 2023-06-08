@@ -42,7 +42,7 @@ We implement the HTNE model for temporal graph clustering on our datasets. Pleas
 
 In this way, under the Baseline folder, there are three subfolders: HTNE (model code), emb (node embeddings) and Clustering (test code).
 
-For the HTNE subfolder, you can:
+For the "HTNE" subfolder, you can:
 
 ```
 python main.py
@@ -64,6 +64,8 @@ else:
 (2) Evaluated after training, where we save node embeddings every 20 epochs, with a separate clustering code.
 
 (This way requires you to create the folder where the emb files are stored, which we have created in the Baseline.zip.)
+
+For the "clustering" subfolder, you can:
 
 ```
 python clustering.py
