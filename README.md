@@ -10,6 +10,8 @@ Google Drive: https://drive.google.com/drive/folders/1-4O3V0ZcC_f8yP5ylW9CX-lE6q
 
 Baidu Disk:
 
+These downloaded datasets need to be placed under the "data" folder.
+
 ## Dataset details
 
 Files included in the current version：
