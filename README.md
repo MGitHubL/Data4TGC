@@ -10,7 +10,7 @@ If you have any questions, please contact me: mengliuedu@163.com
 
 Google Drive: https://drive.google.com/drive/folders/1-4O3V0ZcC_f8yP5ylW9CX-lE6qucbFfh?usp=sharing
 
-Baidu Disk:
+Baidu Disk: https://pan.baidu.com/s/1PPgTL54Qvte7dCr0nS0vBg?pwd=1234  Verification Code: 1234
 
 These downloaded datasets need to be placed under the "data" folder.
 
