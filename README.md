@@ -73,3 +73,14 @@ For the "clustering" subfolder, you can:
 python clustering.py
 ```
 
+## Cite us
+
+```
+@article{liu2023arxiv4tgc,
+  title={arXiv4TGC: Large-Scale Datasets for Temporal Graph Clustering},
+  author={Liu, Meng and Liang, Ke and Liu, Yue and Wang, Siwei and Zhou, Sihang and Liu, Xinwang},
+  journal={arXiv preprint arXiv:2306.04962},
+  year={2023}
+}
+```
+
