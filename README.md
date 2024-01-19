@@ -79,7 +79,7 @@ python clustering.py
 @article{liu2023deep,
   title={Deep Temporal Graph Clustering},
   author={Liu, Meng and Liu, Yue and Liang, Ke and Tu, Wenxuan and Wang, Siwei and Zhou, Sihang and Liu, Xinwang},
-  journal={ICLR},
+  journal={The 12th International Conference on Learning Representations},
   year={2024}
 }
 ```
