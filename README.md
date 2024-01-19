@@ -1,6 +1,6 @@
-# arXiv4TGC
+# Data4TGC
 
-arXiv4TGC is a set of academic datasets (includes arXivAI, arXivCS, arXivMath, arXivPhy and arXivLarge) for large-scale temporal graph clustering.
+Data4TGC is a set of datasets for large-scale temporal graph clustering, includes DBLP, Brain, Patent, School, arXivAI, arXivCS, arXivMath, arXivPhy and arXivLarge.
 
 This is an early version of our dataset, and we will be updating it with more information as we go along.
 
@@ -76,11 +76,11 @@ python clustering.py
 ## Cite us
 
 ```
-@article{liu2023arxiv4tgc,
-  title={arXiv4TGC: Large-Scale Datasets for Temporal Graph Clustering},
-  author={Liu, Meng and Liang, Ke and Liu, Yue and Wang, Siwei and Zhou, Sihang and Liu, Xinwang},
-  journal={arXiv preprint arXiv:2306.04962},
-  year={2023}
+@article{liu2023deep,
+  title={Deep Temporal Graph Clustering},
+  author={Liu, Meng and Liu, Yue and Liang, Ke and Tu, Wenxuan and Wang, Siwei and Zhou, Sihang and Liu, Xinwang},
+  journal={ICLR},
+  year={2024}
 }
 ```
 
