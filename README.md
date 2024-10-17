@@ -4,6 +4,8 @@ Data4TGC is a set of datasets for large-scale temporal graph clustering, include
 
 This is an early version of our dataset, and we will be updating it with more information as we go along.
 
+The paper is "Deep Temporal Graph Clustering (ICLR 2024)", which can be find in: https://arxiv.org/abs/2305.10738v3
+
 If you have any questions, please contact me: mengliuedu@163.com
 
 ## Download datasets
