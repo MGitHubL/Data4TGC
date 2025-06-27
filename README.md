@@ -1,10 +1,12 @@
 # Data4TGC
 
-Data4TGC is a set of datasets for large-scale temporal graph clustering, includes DBLP, Brain, Patent, School, arXivAI, arXivCS, arXivMath, arXivPhy and arXivLarge.
+Data4TGC is a set of datasets for deep temporal graph clustering, includes DBLP, Brain, Patent, School, arXivAI, arXivCS, arXivMath, arXivPhy and arXivLarge.
 
 This is an early version of our dataset, and we will be updating it with more information as we go along.
 
-The paper is "Deep Temporal Graph Clustering (ICLR 2024)", which can be find in: https://arxiv.org/abs/2305.10738v3
+The main project is：https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering
+
+The relavant paper is "Deep Temporal Graph Clustering (ICLR 2024)", which can be find in: https://arxiv.org/abs/2305.10738v3
 
 If you have any questions, please contact me: mengliuedu@163.com
 
