@@ -81,10 +81,18 @@ python clustering.py
 
 ```
 @inproceedings{TGC_ML_ICLR,
-  title={Deep Temporal Graph Clustering},
   author={Liu, Meng and Liu, Yue and Liang, Ke and Tu, Wenxuan and Wang, Siwei and Zhou, Sihang and Liu, Xinwang},
+  title={Deep Temporal Graph Clustering},
   booktitle={The 12th International Conference on Learning Representations},
   year={2024}
+}
+
+@ARTICLE{MVTGC_ML_TNNLS,
+  author={Liu, Meng and Liang, Ke and Yu, Hao and Meng, Lingyuan and Wang, Siwei and Zhou, Sihang and Liu, Xinwang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Multiview Temporal Graph Clustering}, 
+  year={2025},
+  pages={1-14}
 }
 ```
 
